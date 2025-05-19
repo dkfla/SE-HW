@@ -2491,7 +2491,7 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
-											"left": 324,
+											"left": 324.5,
 											"top": 284,
 											"width": 62,
 											"height": 13,
@@ -2529,7 +2529,7 @@
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 319,
+									"left": 319.5,
 									"top": 277,
 									"width": 72,
 									"height": 25,
@@ -2637,7 +2637,7 @@
 							"containerChangeable": true,
 							"left": 304,
 							"top": 272,
-							"width": 102,
+							"width": 103,
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWxB8VH+q9sI0="
@@ -2983,7 +2983,7 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
-											"left": 324,
+											"left": 324.5,
 											"top": 564,
 											"width": 62,
 											"height": 13,
@@ -3021,7 +3021,7 @@
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 319,
+									"left": 319.5,
 									"top": 557,
 									"width": 72,
 									"height": 25,
@@ -3129,7 +3129,7 @@
 							"containerChangeable": true,
 							"left": 304,
 							"top": 552,
-							"width": 102,
+							"width": 103,
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWxB/D3/JAHjk="
@@ -3193,9 +3193,9 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
-											"left": 334.5,
+											"left": 336,
 											"top": 628,
-											"width": 111,
+											"width": 117,
 											"height": 13,
 											"text": "자전거 대여 정보 조회"
 										},
@@ -3231,9 +3231,9 @@
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 329.5,
+									"left": 331,
 									"top": 621,
-									"width": 122.0404052734375,
+									"width": 127,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWxCBG1//27PY="
@@ -3339,7 +3339,7 @@
 							"containerChangeable": true,
 							"left": 304,
 							"top": 616,
-							"width": 172,
+							"width": 181,
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWxCBG1//1CBI="
